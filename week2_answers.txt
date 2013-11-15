@@ -1,2 +1,12 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Patrick Kennedy
+
+Note that I just used the base_app for this week.
+
+OK so for random app ideas:
+
+1.) Assuming you can stick files up and link them in a similar fashion, some sort of a collaberative site
+2.) I was thinking of building a tax provision reasonableness evaluation tool (for auditors to evaluate the tax provision calculated by clients)
+3.) A site similar to zombo.com, or sad trombone.
+
+
